@@ -95,7 +95,7 @@ https://github.com/MuhmedWagdy
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/)
+ LinkedIn"width="22px" src="https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/)
 <br />
 
 
