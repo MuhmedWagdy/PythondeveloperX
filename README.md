@@ -1,20 +1,7 @@
 ### Hi there, I'm mahmed wagdi
-![](https://komarev.com/ghpvc/?username=pythondeveloper6&style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Code4Learn?style=for-the-badge)](https://twitter.com/Code4Learn)
-[![GitHub followers](https://img.shields.io/github/followers/pythondeveloper6?label=Github%20Followers&style=for-the-badge)](https://github.com/Pythondeveloper6)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZtMEPGln_sbgd9_ioDDC9g?label=Youtube&style=for-the-badge)](https://www.youtube.com/c/MahmoudAhmed6)
-
-
-[![Linkedin: MahmoudAhmed](https://img.shields.io/badge/-pythondeveloper6-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pythondeveloper6/)](https://www.linkedin.com/in/pythondeveloper6/)
-
-
-
+https://github.com/MuhmedWagdy
 ---------
 - 🚀 https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/
-
-
-
-
 ### Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -91,13 +78,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
