@@ -95,8 +95,8 @@ https://github.com/MuhmedWagdy
 
 ### Connect with me:
 
- LinkedIn"width="22px" src="https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/)
-<br />
+ src="https://www.linkedin.com/in/muhmed-wagdi-8ab303b2/)
+
 
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
