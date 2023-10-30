@@ -92,11 +92,6 @@ https://github.com/MuhmedWagdy
 
 <br />
 <br />
-
 ### Connect with me:
-
-"https://www.linkedin.com/in/muhmed-wagdi-8ab303b2
-
-
-
+https://www.linkedin.com/in/muhmed-wagdi-8ab303b2
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
